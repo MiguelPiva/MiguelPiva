@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/miguel-piva/" target="_blank"><img align="right" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/miguel-piva/" target="_blank"><img align="right" width="30px" src="https://skills.thijs.gg/icons?i=linkedin&theme=dark" target="_blank"></a>
   <h3>
     About me:
   </h3>
