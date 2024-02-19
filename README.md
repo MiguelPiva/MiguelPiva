@@ -6,7 +6,7 @@
                   88oodP  YbodP  dP""""Yb 8bodP'             YP    88 88  Y8 8888Y"  dP""""Yb 8bodP'
 
 ```
-\>\>   Me chamo Miguel. Estou cursando **Ciência e Tecnologia** e **Ciência da Computação** na Universidade Federal do ABC (UFABC), que possui como um de seus principais diferenciais a interdisciplinaridade. Tenho estudado através de cursos e outros conteúdos: **Flask**, **Docker**, **Bash**, **cibersegurança ofensiva**, entre outros assuntos que acabam se relacionando com estes.
+\>\>   Me chamo Miguel e estou cursando **Ciência e Tecnologia** e **Ciência da Computação** na Universidade Federal do ABC (UFABC). Tenho estudado através de cursos e outros conteúdos: **Flask**, **Docker**, **Bash**, **cibersegurança ofensiva**, entre outros assuntos que acabam se relacionando com estes.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-piva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
