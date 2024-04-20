@@ -12,32 +12,35 @@
   <a href="https://www.linkedin.com/in/miguel-piva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
 </div>
 
+
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
 
-### Linguagens e ferramentas: 
+<h1> Tecnologias</h1>
 
 <br>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="80" height="80"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80" height="80"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80"/>
-<br>
-<br>
-
-<h2>Estatísticas</h2>
+<div align="center">
+  <a href="https://github.com/MiguelPiva?tab=repositories">
+    <img width="410em" align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiva&layout=donut&langs_count=16&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&custom_title=Linguagens mais utilizadas"/>
+  </a>
+</div>
 <div>
-  <div>
-    <a href="https://github.com/MiguelPiva">
-      <img width="410em" src="https://github-readme-stats.vercel.app/api?username=MiguelPiva&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&ring_color=27C0DB&icon_color=209AB0"/>
-    </a>
+  <p align="center">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80" height="80"/><br><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80"/>
+  </p>
+</div>
+<br>
+<br>
+<br>
 
-    <a href="https://github.com/MiguelPiva?tab=repositories">
-      <img width="410em" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiva&layout=donut&langs_count=16&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff"/>
-    </a>
-  </div>
+<h1>Estatísticas</h1>
+<div align="center">
+  <a href="https://github.com/MiguelPiva">
+    <img width="410em" src="https://github-readme-stats.vercel.app/api?username=MiguelPiva&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&ring_color=27C0DB&icon_color=209AB0&hide_title=true"/>
+  </a>
+</div>
 </div>
