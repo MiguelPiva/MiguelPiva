@@ -25,7 +25,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/MiguelPiva?tab=repositories">
-    <img width="410em" align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiva&layout=donut&langs_count=16&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&custom_title=Linguagens mais utilizadas"/>
+    <img width="410em" align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiva&layout=donut&langs_count=16&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&hide_title=true"/>
   </a>
 </div>
 <div>
