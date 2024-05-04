@@ -20,12 +20,12 @@
 <br>
 <br>
 
-<h1> Tecnologias</h1>
 
-<br>
+
+# $\textcolor{gray}{\implies}$ Tecnologias
 <div align="center">
   <a href="https://github.com/MiguelPiva?tab=repositories">
-    <img width="410em" align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiva&layout=donut&langs_count=16&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&hide_title=true"/>
+    <img width="410em" align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiva&layout=donut&langs_count=16&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&locale=pt-br&border_color=1f6feb"/>
   </a>
 </div>
 <div>
@@ -36,11 +36,19 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<h1>Estatísticas</h1>
+# $\textcolor{gray}{\implies}$ Estatísticas
 <div align="center">
   <a href="https://github.com/MiguelPiva">
-    <img width="410em" src="https://github-readme-stats.vercel.app/api?username=MiguelPiva&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&ring_color=27C0DB&icon_color=209AB0&hide_title=true"/>
+    <img width="410em" src="https://github-readme-stats.vercel.app/api?username=MiguelPiva&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=90,111746,2A3AE8&title_color=27C0DB&text_color=fff&ring_color=27C0DB&icon_color=209AB0&hide_title=true&locale=pt-br&border_color=1f6feb"/>
   </a>
 </div>
+<br>
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=dio-lab-sistema-bancario&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/dio-lab-sistema-bancario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=AnaliseDeDisciplinas&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/AnaliseDeDisciplinas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greenteamhc&repo=Roadmap-Cybersecurity&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&show_owner=True&description_lines_count=2)](https://github.com/greenteamhc/Roadmap-Cybersecurity)
 </div>
