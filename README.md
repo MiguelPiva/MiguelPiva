@@ -30,8 +30,8 @@
 </div>
 <div>
   <p align="center">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80" height="80"/><br><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80"/>
-  </p>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80" height="80"/><br><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80"/>
+  </p>    
 </div>
 <br>
 <br>
@@ -51,4 +51,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=dio-lab-sistema-bancario&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/dio-lab-sistema-bancario)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=AnaliseDeDisciplinas&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/AnaliseDeDisciplinas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greenteamhc&repo=Roadmap-Cybersecurity&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&show_owner=True&description_lines_count=2)](https://github.com/greenteamhc/Roadmap-Cybersecurity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=chess-system-java&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/chess-system-java)
 </div>
