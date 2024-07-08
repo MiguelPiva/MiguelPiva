@@ -51,5 +51,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=dio-lab-sistema-bancario&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/dio-lab-sistema-bancario)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=AnaliseDeDisciplinas&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/AnaliseDeDisciplinas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greenteamhc&repo=Roadmap-Cybersecurity&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&show_owner=True&description_lines_count=2)](https://github.com/greenteamhc/Roadmap-Cybersecurity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=chess-system-java&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/chess-system-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=chess-system-java&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&description_lines_count=2)](https://github.com/MiguelPiva/chess-system-java)
 </div>
