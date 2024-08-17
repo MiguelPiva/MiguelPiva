@@ -14,7 +14,6 @@
 + 🎂 The cake is a lie.
 
 <br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-piva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
@@ -55,7 +54,7 @@
 </div>
 
 
-``` bash
+```
 >> exit
 Goodbye!
 ```
