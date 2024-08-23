@@ -46,8 +46,8 @@
 <h2> 📐 Projetos em destaque </h2>
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=dio-lab-sistema-bancario&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/dio-lab-sistema-bancario)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=listagem-matriculas&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117)](https://github.com/MiguelPiva/listagem-matriculas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=dio-lab-sistema-bancario&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&description_lines_count=2)](https://github.com/MiguelPiva/dio-lab-sistema-bancario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=listagem-matriculas&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&description_lines_count=2)](https://github.com/MiguelPiva/listagem-matriculas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greenteamhc&repo=Roadmap-Cybersecurity&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&show_owner=True&description_lines_count=2)](https://github.com/greenteamhc/Roadmap-Cybersecurity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelPiva&repo=workshop-spring-mongodb&bg_color=100,111746,2A3AE8&text_color=fff&border_color=0d1117&description_lines_count=2)](https://github.com/MiguelPiva/workshop-spring-mongodb)
 
