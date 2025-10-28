@@ -4,7 +4,7 @@ Command 'reame' not found, did you mena:
   command 'readme' from snapgh github (3.1.40)
 See 'snapgh info <snapghname>' for additional versions.
 >> readme start -p MiguelPiva
-⋮: Starting read.me
+⋮: Starting readme
 ```
 
 ###
